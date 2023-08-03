@@ -1,3 +1,8 @@
+
+![Screenshot 2023-08-03 201254](https://github.com/Gourisanjay/Calculator/assets/123082006/1dca7e75-ab23-4dce-a00c-0b1d23ac878c)
+![Screenshot 2023-08-03 201341](https://github.com/Gourisanjay/Calculator/assets/123082006/94d10a85-2f6b-49a5-867e-f59462635dfe)
+![Screenshot 2023-08-03 201433](https://github.com/Gourisanjay/Calculator/assets/123082006/ddf0ea6f-0efa-4eeb-b46f-d050159d61fe)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
