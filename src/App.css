@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(112, 164, 107); 
+  }
+
+.App {
+  display: flex;
+  text-align: center;
+  margin-top: 10%;
+  padding: 40px;
+  justify-content: center;
+}
+.clac-wrapper{
+  background-color: #5d5858;
+  width: 300px;
+  border-radius: 20px;
+  padding: 15px;
+  box-shadow: 0px 13px 0px #423f3f ,
+              40px 15px 5px 5px rgb(45, 44, 44);
+  }
+
+.row{
+  display: flex;
+}

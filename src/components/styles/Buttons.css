@@ -1,0 +1,30 @@
+
+.button-wrapper{
+    border: none;
+    display: flex;
+    flex: 1;
+    height: 3em;
+    font-size: 16px;
+    background-color: white;
+    margin: 4px;
+    border-radius: 8px;
+    justify-content: center;
+    align-items: center;
+    font-weight: bolder;
+    box-shadow: 0px 3px 2px 0px rgba(11, 11, 11, 0.425),
+    inset 0px -4px 0px  0px  rgba(175, 171, 171, 0.425);
+    cursor: pointer;
+}
+  
+  .button-wrapper.equal {
+    background-color: orange;
+    font-weight: bold;
+    color: white;
+    
+  }
+.button-wrapper:hover {
+    background-color: #e6dddd;
+}
+.button-wrapper.equal:hover{
+    background-color: #e6dddd;
+}
